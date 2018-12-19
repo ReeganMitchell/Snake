@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545162020 source:c:\users\reegan\documents\projects\snake\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<ctime>
+
